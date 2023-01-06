@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "63b6afdf08ba3aa46e329503"
+  },
+  "name": "santhosh",
+  "phonenumber": "24685225455",
+  "place": "mysore"
+},{
+  "_id": {
+    "$oid": "63b6afdf08ba3aa46e329504"
+  },
+  "name": "sivakumar",
+  "phonenumber": "25654235458",
+  "place": "pune"
+},{
+  "_id": {
+    "$oid": "63b6afdf08ba3aa46e329505"
+  },
+  "name": "uma",
+  "phonenumber": "24967521452",
+  "place": "delhi"
+},{
+  "_id": {
+    "$oid": "63b6afdf08ba3aa46e329506"
+  },
+  "name": "shyam",
+  "phonenumber": "2654789321",
+  "place": "goa"
+},{
+  "_id": {
+    "$oid": "63b6b0b708ba3aa46e329507"
+  },
+  "name": "santhosh",
+  "phonenumber": "24685225455",
+  "place": "mysore"
+},{
+  "_id": {
+    "$oid": "63b6b0b708ba3aa46e329508"
+  },
+  "name": "siva",
+  "phonenumber": "25654235458",
+  "place": "pune"
+},{
+  "_id": {
+    "$oid": "63b6b0b708ba3aa46e329509"
+  },
+  "name": "uma",
+  "phonenumber": "24967521452",
+  "place": "delhi"
+},{
+  "_id": {
+    "$oid": "63b6b0b708ba3aa46e32950a"
+  },
+  "name": "shyam",
+  "phonenumber": "2654789321",
+  "place": "goa"
+},{
+  "_id": {
+    "$oid": "63b6b0b708ba3aa46e32950b"
+  },
+  "name": "simba",
+  "phonenumber": "24672548555",
+  "place": "chennai"
+},{
+  "_id": {
+    "$oid": "63b6b8321a060b1a4b3ce20b"
+  },
+  "name": "santhosh",
+  "phonenumber": "24685225455",
+  "place": "mysore"
+},{
+  "_id": {
+    "$oid": "63b6b8321a060b1a4b3ce20c"
+  },
+  "name": "siva",
+  "phonenumber": "25654235458",
+  "place": "pune"
+},{
+  "_id": {
+    "$oid": "63b6b8321a060b1a4b3ce20d"
+  },
+  "name": "uma",
+  "phonenumber": "24967521452",
+  "place": "delhi"
+},{
+  "_id": {
+    "$oid": "63b6b8321a060b1a4b3ce20e"
+  },
+  "name": "shyam",
+  "phonenumber": "2654789321",
+  "place": "goa"
+},{
+  "_id": {
+    "$oid": "63b6b8321a060b1a4b3ce20f"
+  },
+  "name": "simba",
+  "phonenumber": "24672548555",
+  "place": "chennai"
+},{
+  "_id": {
+    "$oid": "63b71f3ac91898932d1a61d7"
+  },
+  "name": "swathi",
+  "phonenumber": "2439723545",
+  "place": "chennai"
+},{
+  "_id": {
+    "$oid": "63b71f3ac91898932d1a61d8"
+  },
+  "name": "santhosh",
+  "phonenumber": "24685225455",
+  "place": "mysore"
+},{
+  "_id": {
+    "$oid": "63b71f3ac91898932d1a61d9"
+  },
+  "name": "siva",
+  "phonenumber": "25654235458",
+  "place": "pune"
+},{
+  "_id": {
+    "$oid": "63b71f3ac91898932d1a61da"
+  },
+  "name": "uma",
+  "phonenumber": "24967521452",
+  "place": "delhi"
+},{
+  "_id": {
+    "$oid": "63b71f3ac91898932d1a61db"
+  },
+  "name": "shyam",
+  "phonenumber": "2654789321",
+  "place": "goa"
+},{
+  "_id": {
+    "$oid": "63b71f3ac91898932d1a61dc"
+  },
+  "name": "simba",
+  "phonenumber": "24672548555",
+  "place": "chennai"
+}]
